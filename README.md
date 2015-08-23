@@ -1,5 +1,5 @@
 # Binarish
-Binarish is names given to the positions in the binary number system. Just like in English we say one hundred and five instead of one zero five. One difference the binary system have to base then is that we can have a one at the position or not, in Binarish this is represented as including and excluding the name associated with the position.
+Binarish is names given to the positions in the binary number system. Just like in English we say one hundred and five instead of one zero five. One difference the binary system have to base ten is that we can have a one at the position or not, in Binarish this is represented as including and excluding the name associated with the position.
 
 ## Position names
 Position | Worth | Name
