@@ -33,14 +33,22 @@ Note that just like in English the most significant name is pronounced first.
 
 ## Example usage
 Some arithmetics gets easier
+```
 4 + 3 = 7
 so + moki = somoki
+```
 
+```
 105 - 40 = 65
 linosoki - noso = liki
+```
 
+```
 7 + 1 = 8
 dimoki + ki = so
+```
 
+```
 10 / 2 = 5
 somo / mo = moki
+```
